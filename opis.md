@@ -9,7 +9,6 @@
 <li>https://www.udemy.com/course/kurs-git-i-github-od-podstaw/</li>
 <p>
  </ul>
-<p>
  <ul> Nabyta wiedza
   <li> Podstawy HTML</li>
   <li> Podstawy CSS </li>
