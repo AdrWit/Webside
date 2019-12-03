@@ -15,7 +15,7 @@
   <li> jQuery</li>
   <li> responsywność stron</li>
   <li> "Mobile First"</li>
-
+</ul>
 <ul><b>W planie:</b>
 <li>powtórzenie tworzenia responsywnych stron</li>
 <li>powtórzenie metod Grid i Flexbox</li>
