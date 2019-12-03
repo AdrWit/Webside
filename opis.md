@@ -11,14 +11,14 @@
   <li> HTML</li>
   <li> CSS</li>
   <li> Bootrstrap</li>
- <li> JavaScript </li>
- <li> jQuery</li>
- </p>
-W planie:
-<ul>
+  <li> JavaScript</li>
+  <li> jQuery</li>
+  <li> responsywność stron</li>
+  <li> "Mobile First"</li>
+
+<ul><b>W planie:</b>
 <li>powtórzenie tworzenia responsywnych stron</li>
 <li>powtórzenie metod Grid i Flexbox</li>
-<li>powtórzenie jQuery</li>
 <li>nauka podstaw React</li>
  </ul>
-<p>
+
