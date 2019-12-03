@@ -6,10 +6,13 @@
 <li>https://www.udemy.com/course/kurs-programowanie-w-javascript/</li>
 <li>https://www.udemy.com/course/javascript-od-podstaw-do-eksperta/</li>
 <li>https://www.udemy.com/course/kurs-git-i-github-od-podstaw/</li>
-
-W planie:
--powtórzenie tworzenia responsywnych stron
--powtórzenie metod Grid i Flexbox
--powtórzenie jQuery
--nauka podstaw React
+<p>
  
+W planie:
+<ul>
+<li>powtórzenie tworzenia responsywnych stron</li>
+<li>powtórzenie metod Grid i Flexbox</li>
+<li>powtórzenie jQuery</li>
+<li>nauka podstaw React</li>
+ 
+<p>
