@@ -7,12 +7,12 @@
 <li>https://www.udemy.com/course/javascript-od-podstaw-do-eksperta/</li>
 <li>https://www.udemy.com/course/kurs-git-i-github-od-podstaw/</li>
 <p>
- 
+ </ul>
 W planie:
 <ul>
 <li>powtórzenie tworzenia responsywnych stron</li>
 <li>powtórzenie metod Grid i Flexbox</li>
 <li>powtórzenie jQuery</li>
 <li>nauka podstaw React</li>
- 
+ </ul>
 <p>
